@@ -1,5 +1,6 @@
 * [首页](mainpage.md)
 * [进入服务器](mdfile/enter-server.md)
 * [服务器玩法](mdfile/serverplays.md)
+* [基础指令](mdfile/basic-commands.md)
   * [MCMMO](mdfile/plays/mcmmo.md)
   * [附魔](mdfile/plays/enchants.md)
