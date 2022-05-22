@@ -3,4 +3,7 @@
 * [服务器玩法](mdfile/serverplays.md)
   * [MCMMO](mdfile/plays/mcmmo.md)
   * [附魔](mdfile/plays/enchants.md)
-* [基础指令](mdfile/basic-commands.md)
+* [基础指令](mdfile/basic-commands.md)  
+  
+* [下载客户端](https://share.weiyun.com/aA3YDDcE)
+* [找服玩宣传贴](https://play.mcmod.cn/sv20186195.html)
